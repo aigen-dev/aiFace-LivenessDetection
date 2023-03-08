@@ -11,7 +11,7 @@ https://developer.aigen.online/
 
 ### Api documentation
 
-https://api.aigen.online/docs
+https://docs.aigen.online/
 
 
 # Getting Started with Create React App
